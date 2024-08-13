@@ -4,3 +4,8 @@ Explore how to streamline data import in Dataverse with a custom-built Import Wi
 #### Example
 
 https://youtu.be/ZXTkbKlj0Tc?si=xhN1mH5F5QdvDZw9
+
+## Contact
+
+For questions, issues, or feature requests, please open an issue in this repository or contact us at nexus.mind.uicomponents@gmail.com
+.
